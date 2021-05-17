@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 5511680293906805910}
   - component: {fileID: 1780936895927773966}
   - component: {fileID: 7967768729129585521}
-  - component: {fileID: 1292427183777441669}
   - component: {fileID: 7269748973518499394}
   m_Layer: 2
   m_Name: Cube4
@@ -95,19 +94,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &1292427183777441669
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 78107667833674779}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 79ec90d12ee977c4494521bec616655c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  isInScreen: 0
 --- !u!114 &7269748973518499394
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1034,7 +1020,6 @@ GameObject:
   - component: {fileID: 5326025219772467533}
   - component: {fileID: 7523536963534985836}
   - component: {fileID: 4707740469615099205}
-  - component: {fileID: 2102119936780375618}
   - component: {fileID: 16201824220021614}
   m_Layer: 2
   m_Name: Cube3
@@ -1117,19 +1102,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &2102119936780375618
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1804114276033214905}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 79ec90d12ee977c4494521bec616655c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  isInScreen: 0
 --- !u!114 &16201824220021614
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4089,7 +4061,6 @@ GameObject:
   - component: {fileID: 9085399422629578243}
   - component: {fileID: 5556265874027103671}
   - component: {fileID: 1392342079248456649}
-  - component: {fileID: 7815002444136331285}
   - component: {fileID: 4532512375326081915}
   m_Layer: 2
   m_Name: Cube1
@@ -4172,19 +4143,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &7815002444136331285
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8910647947948018910}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 79ec90d12ee977c4494521bec616655c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  isInScreen: 0
 --- !u!114 &4532512375326081915
 MonoBehaviour:
   m_ObjectHideFlags: 0
